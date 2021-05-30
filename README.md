@@ -18,7 +18,8 @@ A program that search for Bitcoin, Euro and Dolar value and convert to Real in r
 
 
 
-![image](https://user-images.githubusercontent.com/84366791/120093339-f3818300-c0ef-11eb-9b56-9aa0f87fe010.png)
+![WhatsApp Image 2021-05-30 at 02 36 59](https://user-images.githubusercontent.com/84366791/120093358-10b65180-c0f0-11eb-9f71-d7c5a4e8b852.jpeg)
+
 
 ![WhatsApp Image 2021-05-30 at 02 37 06](https://user-images.githubusercontent.com/84366791/120093344-f8decd80-c0ef-11eb-8414-18f5187b2fae.jpeg)
 
