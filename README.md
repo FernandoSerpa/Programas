@@ -18,4 +18,10 @@ A program that search for Bitcoin, Euro and Dolar value and convert to Real in r
 
 
 
+![image](https://user-images.githubusercontent.com/84366791/120093339-f3818300-c0ef-11eb-9b56-9aa0f87fe010.png)
+
+![WhatsApp Image 2021-05-30 at 02 37 06](https://user-images.githubusercontent.com/84366791/120093344-f8decd80-c0ef-11eb-8414-18f5187b2fae.jpeg)
+
+
+
 The reason why Dolar and Euro dosen't change too much, it's because they don't oscilate like Bitcoin do, so you can see the difference between them, but all three work just fine 
